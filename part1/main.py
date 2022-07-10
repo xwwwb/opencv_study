@@ -1,3 +1,6 @@
+# author: xwwwb
+# date: 2022-07-10
+# description: 认识cv2的基础函数
 import cv2
 from matplotlib import pyplot as plt
 import numpy as np
